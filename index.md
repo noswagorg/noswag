@@ -39,6 +39,6 @@ Not intentionally. And this is not a publicitly stunt, either. We’ve particpat
 
 # Companies and individuals supporting the NO SWAG manifesto:
 
-* https://cheksec.com
+* https://checksec.com
 
-If you want to add your name, or your company’s name, to this list, please send a pull request or a drop a mail to noswag@davidryan.org. Feel free to tell us how you’re fighting the war on swag and we’ll share your story via this site.
+If you want to add your name, or your company’s name, to this list, please send a pull request or drop a mail to noswag@davidryan.org. Feel free to tell us how you’re fighting the war on swag and we’ll share your story here too!
