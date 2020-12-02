@@ -9,6 +9,10 @@ There’s a number of reasons why Swag is “bad”:
 * Most of it is thrown away.
 * It has very little value.
 * Usually doesn’t have the desired impact (marketing).
+* Most people don't care for it.
+* The obvious environmental impact.
+* It's a waste, and a sign of a society that's not sufficiently concerned about its waste.
+* Whilst some people will argue about job creation ... manufacturing already produces enough to survive a world without swag!
 
 # The war on Swag
 
@@ -26,11 +30,12 @@ So kids, remember …
 
 * Cut down our creation of swag as vendors at events. If possible, aim for no swag.
 * Use the money saved for better causes. Contribute it back to the environment, or to help those in need.
-* Don’t take swag from vendors.
+* Don’t take swag from vendors. 
+* Tell others to just say **no** to swag.
 
 # Are you just virtue signalling?
 
-Not consciously. And this is not a publicitly stunt, either. We’ve particpated in swag creation and swag consumption. However, for the past few years we decided to use our swag budget to help causes, such as food banks, instead of having swag at the events that we’ve sponsored.
+Not intentionally. And this is not a publicitly stunt, either. We’ve particpated in swag creation and swag consumption. However, for the past few years we decided to use our swag budget to help causes, such as food banks, instead of having swag at the events that we’ve sponsored.
 
 # Companies and individuals supporting the NO SWAG manifesto:
 
