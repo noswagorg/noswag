@@ -14,7 +14,7 @@ There’s a number of reasons why Swag is “bad”:
 
 We’re fighting a war. A war on waste, and the impact that waste has on our climate and cultivating wasteful culture. Swag represents a small battle within a much larger war. However, it seems like a positive and responsible step companies can take. Contribute your (or your companies) grain of sand, and all that.
 
-# So what you're saying is: Swag a gateway drug?
+# So what you're saying is: Swag is a gateway drug?
 
 Maybe ...
 
