@@ -37,7 +37,9 @@ So kids, remember …
 
 Not intentionally. And this is not a publicitly stunt, either. We’ve particpated in swag creation and swag consumption. However, for the past few years we decided to use our swag budget to help causes, such as food banks, instead of having swag at the events that we’ve sponsored.
 
-# Companies and individuals supporting the NO SWAG manifesto:
+# No Swag Supporters
+
+The following companies and individuals are supprting the No Swag movement:
 
 * https://checksec.com
 
